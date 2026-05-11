@@ -1,0 +1,714 @@
+{
+  "properties": {
+    "short_description": "Olipop is a scientifically formulated beverage crafted with plant fiber and prebiotics to promote optimal digestive health.",
+    "layout_id": "investor",
+    "rank_delta_d90": -2.5,
+    "title": "Olipop"
+  },
+  "preview_properties": {
+    "investor_identifiers": {
+      "is_present": true,
+      "length": 5
+    }
+  },
+  "cards": {
+    "diversity_spotlight_investments_headline": {
+      "num_diversity_spotlight_investments": 1
+    },
+    "funds_summary": {},
+    "funding_prediction": [
+      {
+        "generated_on": "2025-10-04",
+        "key_employee_change": {
+          "uuid": "a9ed4297-72d5-4bda-8646-1a0a6bbaade9",
+          "image_id": "c2abf170d00c435b82db573f91932e5e",
+          "entity_def_id": "key_employee_change"
+        },
+        "probability_score": 0.9286,
+        "unicorn_status": "c200_evidence_present",
+        "created_at": "2025-10-06T20:08:06Z",
+        "partnership_announcement": {
+          "uuid": "7f42d97e-65e3-4b59-ac13-086e09e3d209",
+          "image_id": "252191885d9f41f1a65e5001f4f000dd",
+          "entity_def_id": "partnership_announcement"
+        },
+        "updated_at": "2025-10-06T20:08:06Z",
+        "probability_score_timeseries": {
+          "months_24_plus": 1.190685977659403e-08,
+          "months_00_to_05": 0.9999998526649854,
+          "months_06_to_11": 1.280826718558898e-07,
+          "months_12_to_24": 7.345483202126603e-09
+        },
+        "growth_insight": {
+          "uuid": "e4e83156-f749-4330-9595-b84f92ee2d5f",
+          "value": "Growth Insight 2025-07-07",
+          "image_id": "7cf76077ef9646418992d769e23cb093",
+          "entity_def_id": "growth_insight"
+        },
+        "product_launch": {
+          "uuid": "d735bdf4-0e0a-49ef-8da6-7c8fbf086444",
+          "image_id": "5636ac4797564e13bac4807f4136b42b",
+          "entity_def_id": "product_launch"
+        },
+        "organization": {
+          "uuid": "afae7f98-1053-4b29-bbf1-8f7d3abfb20e",
+          "value": "Olipop",
+          "image_id": "yx6qdieek1mffmbjrph0",
+          "permalink": "olipop",
+          "entity_def_id": "organization"
+        }
+      }
+    ],
+    "company_about_fields1": {},
+    "investors_summary": {
+      "num_investors": 46
+    },
+    "funds_list": [],
+    "alumni_image_list": [],
+    "semrush_overview_headline": {},
+    "funding_rounds_summary": {
+      "num_funding_rounds": 7,
+      "last_funding_type": "series_c",
+      "preview_properties": {
+        "funding_total": {
+          "is_present": true
+        },
+        "last_funding_at": {
+          "is_present": true
+        }
+      }
+    },
+    "investments_summary": {
+      "num_investments": 1,
+      "preview_properties": {
+        "last_investment_fr_money_raised": {
+          "is_present": true
+        }
+      }
+    },
+    "acquired_by_fields": {},
+    "research_insight_text_link": {},
+    "acquisition_prediction": [
+      {
+        "generated_on": "2026-03-21",
+        "key_employee_change": {
+          "uuid": "a9ed4297-72d5-4bda-8646-1a0a6bbaade9",
+          "image_id": "c2abf170d00c435b82db573f91932e5e",
+          "entity_def_id": "key_employee_change"
+        },
+        "probability_score": 0.3431,
+        "created_at": "2026-01-15T07:20:27Z",
+        "partnership_announcement": {
+          "uuid": "7c49f5ec-9eaf-4ecf-9243-769a37baba5b",
+          "image_id": "c59be92611e3464fa2fb72d9fd042ab4",
+          "entity_def_id": "partnership_announcement"
+        },
+        "updated_at": "2026-03-21T19:59:36Z",
+        "probability_tier": "p400_negative_low",
+        "growth_insight": {
+          "uuid": "e4e83156-f749-4330-9595-b84f92ee2d5f",
+          "value": "Growth Insight 2025-07-07",
+          "image_id": "7cf76077ef9646418992d769e23cb093",
+          "entity_def_id": "growth_insight"
+        }
+      }
+    ],
+    "sub_organizations_headline": {},
+    "layoff_list": [],
+    "semrush_rank_headline": {
+      "semrush_visits_latest_month": 336793,
+      "semrush_visits_mom_pct": -0.437859481978749
+    },
+    "alumni_summary": {},
+    "apptopia_summary": {},
+    "social_fields": {
+      "facebook": {
+        "value": "https://www.facebook.com/drinkolipop"
+      },
+      "linkedin": {
+        "value": "https://www.linkedin.com/company/olipop-pbc"
+      },
+      "twitter": {
+        "value": "https://x.com/drinkolipop"
+      }
+    },
+    "investments_headline": {
+      "num_investments": 1,
+      "num_portfolio_organizations": 1
+    },
+    "investment_thesis": {
+      "lookup": [],
+      "bucket": {
+        "field_id": "status",
+        "values": [
+          "operating"
+        ],
+        "series": [
+          {
+            "aggregator_id": "count",
+            "values": [
+              1
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "num_portfolio_organizations": 1
+      },
+      "data": []
+    },
+    "diversity_spotlight_investments_summary": {
+      "num_diversity_spotlight_investments": 1
+    },
+    "company_about_fields2": {
+      "website": {
+        "value": "https://www.drinkolipop.com"
+      },
+      "ipo_status": "private",
+      "num_employees_enum": "c_00101_00250",
+      "last_funding_type": "series_c",
+      "location_identifiers": [
+        {
+          "uuid": "1a7aff5f-8ac8-99d5-5f78-82519e402a85",
+          "value": "Oakland",
+          "permalink": "oakland-california",
+          "entity_def_id": "location",
+          "location_type": "city"
+        },
+        {
+          "uuid": "eb879a83-c91a-121e-0bb8-829782dbcf04",
+          "value": "California",
+          "permalink": "california-united-states",
+          "entity_def_id": "location",
+          "location_type": "region"
+        },
+        {
+          "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+          "value": "United States",
+          "permalink": "united-states",
+          "entity_def_id": "location",
+          "location_type": "country"
+        },
+        {
+          "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+          "value": "North America",
+          "permalink": "north-america",
+          "entity_def_id": "location",
+          "location_type": "continent"
+        }
+      ],
+      "rank_org_company": 4177
+    },
+    "sub_organizations_image_list": [],
+    "bombora_attribution": {
+      "bombora_last_updated": "2026-03-15"
+    },
+    "overview_investor_fields": {},
+    "siftery_summary": {
+      "siftery_num_products": 39
+    },
+    "acquired_by_summary": {},
+    "ipo_fields": {},
+    "apptopia_app_overview_list_public": [],
+    "trading_view": {},
+    "frequently_asked_questions_investors": {
+      "num_investors": 46
+    },
+    "funding_rounds_list": [
+      {
+        "num_investors": 1,
+        "investment_type": "series_c"
+      },
+      {
+        "num_investors": 3,
+        "investment_type": "series_unknown"
+      },
+      {
+        "num_investors": 35,
+        "investment_type": "series_b"
+      },
+      {
+        "num_investors": 1,
+        "investment_type": "debt_financing"
+      },
+      {
+        "num_investors": 8,
+        "investment_type": "series_a"
+      },
+      {
+        "num_investors": 5,
+        "investment_type": "seed"
+      },
+      {
+        "num_investors": 1,
+        "investment_type": "pre_seed"
+      }
+    ],
+    "technology_highlights": {
+      "builtwith_num_technologies_used": 74,
+      "semrush_visits_latest_month": 336793,
+      "semrush_visits_mom_pct": -0.437859481978749,
+      "siftery_num_products": 39
+    },
+    "funding_rounds_headline": {
+      "num_funding_rounds": 7
+    },
+    "legal_proceedings": [],
+    "current_employees_summary": {
+      "num_current_positions": 3
+    },
+    "aberdeen_summary": {
+      "aberdeen_site_it_spend": {
+        "value": 2027171,
+        "currency": "USD",
+        "value_usd": 2027171
+      }
+    },
+    "offices": [],
+    "overview_timeline": {
+      "count": 120,
+      "entities": [
+        {
+          "uuid": "9bda5466-43ad-4ca9-9c69-5a743ab7e7d7",
+          "properties": {
+            "entity_def_id": "press_reference",
+            "activity_entities": [
+              {
+                "uuid": "afae7f98-1053-4b29-bbf1-8f7d3abfb20e",
+                "value": "Olipop",
+                "image_id": "yx6qdieek1mffmbjrph0",
+                "permalink": "olipop",
+                "entity_def_id": "organization"
+              }
+            ],
+            "activity_properties": {
+              "url": {
+                "value": "https://wwd.com/pop-culture/new-fashion-releases/cocokind-olipop-collaboration-1238536831/"
+              },
+              "title": "EXCLUSIVE: Cocokind Partners Qith Beverage Brand Olipop on New Ceramide Lip Blur Balm\u00a0Collection",
+              "author": "Kaleigh Werner",
+              "publisher": "WWD"
+            },
+            "activity_date": "2026-02-05"
+          }
+        },
+        {
+          "uuid": "bf1a752a-3e04-491d-b990-0816ac987aa0",
+          "properties": {
+            "entity_def_id": "press_reference",
+            "activity_entities": [
+              {
+                "uuid": "afae7f98-1053-4b29-bbf1-8f7d3abfb20e",
+                "value": "Olipop",
+                "image_id": "yx6qdieek1mffmbjrph0",
+                "permalink": "olipop",
+                "entity_def_id": "organization"
+              }
+            ],
+            "activity_properties": {
+              "url": {
+                "value": "https://www.mediapost.com/publications/article/411782/jean-smart-helps-olipop-launch-shirley-temple-flav.html"
+              },
+              "title": "Jean Smart Helps Olipop Launch Shirley Temple Flavor",
+              "author": "Danielle Oster",
+              "publisher": "Media Post"
+            },
+            "activity_date": "2026-01-06"
+          }
+        },
+        {
+          "uuid": "33e1315e-2535-4bdf-a1d1-0f5559c08ee1",
+          "properties": {
+            "entity_def_id": "press_reference",
+            "activity_entities": [
+              {
+                "uuid": "afae7f98-1053-4b29-bbf1-8f7d3abfb20e",
+                "value": "Olipop",
+                "image_id": "yx6qdieek1mffmbjrph0",
+                "permalink": "olipop",
+                "entity_def_id": "organization"
+              }
+            ],
+            "activity_properties": {
+              "url": {
+                "value": "https://wwd.com/footwear-news/shoe-trends/clove-olipop-sock-collaboration-1238418447/"
+              },
+              "title": "Clove and Olipop Partner on Playful Fruit-decorated \u2018Oli-Socks\u2019 in Time for Holiday\u00a0Shopping",
+              "author": "Jaden Thompson",
+              "publisher": "WWD"
+            },
+            "activity_date": "2025-12-09"
+          }
+        },
+        {
+          "uuid": "3fae720b-1dc5-493b-a9b5-f6111bfd355e",
+          "properties": {
+            "entity_def_id": "press_reference",
+            "activity_entities": [
+              {
+                "uuid": "afae7f98-1053-4b29-bbf1-8f7d3abfb20e",
+                "value": "Olipop",
+                "image_id": "yx6qdieek1mffmbjrph0",
+                "permalink": "olipop",
+                "entity_def_id": "organization"
+              }
+            ],
+            "activity_properties": {
+              "url": {
+                "value": "https://www.mediapost.com/publications/article/411236/two-soda-brands-try-scent-based-marketing.html"
+              },
+              "title": "Two Soda Brands Try Scent-Based Marketing",
+              "author": "Danielle Oster",
+              "publisher": "Media Post"
+            },
+            "activity_date": "2025-12-08"
+          }
+        },
+        {
+          "uuid": "3c29db51-5cf6-4339-b536-cac6f4220d1a",
+          "properties": {
+            "entity_def_id": "funding_round",
+            "activity_entities": [
+              {
+                "role": "investor",
+                "uuid": "a46b4cab-81ea-401a-88ad-6add4aa77f0b",
+                "value": "Adams Group",
+                "image_id": "cce0da90f0514980bd135f4beaa963e3",
+                "permalink": "adams-group-7f0b",
+                "entity_def_id": "organization"
+              },
+              {
+                "role": "investor",
+                "uuid": "4a2b368f-956c-461a-8598-7515570b82e7",
+                "value": "Ancient Nutrition",
+                "image_id": "q5sntzr1amjlx1hrk85a",
+                "permalink": "ancient-nutrition",
+                "entity_def_id": "organization"
+              },
+              {
+                "role": "investor",
+                "uuid": "eb38a0a1-a432-d0a2-ee7f-942f45e893ce",
+                "value": "Applegate",
+                "image_id": "v1416912752/ga8qtgnt4qcfvm8fu4lg.png",
+                "permalink": "applegate",
+                "entity_def_id": "organization"
+              },
+              {
+                "role": "investor",
+                "uuid": "a853ac44-c23f-42fa-aa0f-f2011e08fdcb",
+                "value": "Bel Group",
+                "image_id": "ls84zfcgpegn2p3wyt6z",
+                "permalink": "bel-group",
+                "entity_def_id": "organization"
+              },
+              {
+                "role": "investor",
+                "uuid": "4fd13c20-af4b-441e-8e92-2145e0b78e01",
+                "value": "Bob's Red Mill",
+                "image_id": "sxtjtxx0stdjpkpx9knn",
+                "permalink": "bob-s-red-mill",
+                "entity_def_id": "organization"
+              },
+              {
+                "role": "investor",
+                "uuid": "146132f8-f970-447f-239d-6f92b1ddf594",
+                "value": "KIND Snacks",
+                "image_id": "v1462886617/vwgx2bjbidfab0xkutfj.png",
+                "permalink": "kind",
+                "entity_def_id": "organization"
+              },
+              {
+                "role": "investor",
+                "uuid": "31b3417b-6c1a-4bb8-930a-3d62fdb35f2b",
+                "value": "Little Sesame",
+                "image_id": "hswlzyczwwc1mvt0bam3",
+                "permalink": "little-sesame",
+                "entity_def_id": "organization"
+              },
+              {
+                "role": "investee",
+                "uuid": "956cb51e-328f-405d-8bad-685580c59a9b",
+                "value": "Mad Agriculture",
+                "image_id": "c60215de247a4e7c8f012371b85d9432",
+                "permalink": "mad-agriculture",
+                "entity_def_id": "organization"
+              },
+              {
+                "role": "investor",
+                "uuid": "3b3e2d24-d507-44b7-9c30-3c37f5b78dff",
+                "value": "Marianne's Harvest",
+                "image_id": "e6c7e00c735944948a2f5facafa0c51e",
+                "permalink": "marianne-s-harvest",
+                "entity_def_id": "organization"
+              },
+              {
+                "role": "investor",
+                "uuid": "8e7cb97c-1d0c-47bf-bb68-29b6d66d8aa6",
+                "value": "MegaFood",
+                "image_id": "v1509739637/xandshdjo8jrbhqliltn.png",
+                "permalink": "megafood",
+                "entity_def_id": "organization"
+              },
+              {
+                "role": "investor",
+                "uuid": "22925a2d-6d70-bd6e-b196-3d7849bbf26d",
+                "value": "New Belgium Brewing",
+                "image_id": "v1454587196/jdynlznaan5j3adk9lwc.png",
+                "permalink": "new-belgium-brewing-2",
+                "entity_def_id": "organization"
+              },
+              {
+                "role": "investor",
+                "uuid": "09dc8144-f4bb-4d66-aef3-055d900936de",
+                "value": "Oatly",
+                "image_id": "zdpfwqd2bqtmsqz0dbxq",
+                "permalink": "oatly",
+                "entity_def_id": "organization"
+              },
+              {
+                "role": "investor",
+                "uuid": "afae7f98-1053-4b29-bbf1-8f7d3abfb20e",
+                "value": "Olipop",
+                "image_id": "yx6qdieek1mffmbjrph0",
+                "permalink": "olipop",
+                "entity_def_id": "organization"
+              },
+              {
+                "role": "investor",
+                "uuid": "17732df6-c47a-4c72-926e-3a75c9533393",
+                "value": "Patagonia Provisions",
+                "image_id": "o3xewkbuwbldi7asujhs",
+                "permalink": "patagonia-provisions",
+                "entity_def_id": "organization"
+              },
+              {
+                "role": "investor",
+                "uuid": "dee2e979-417e-410c-a802-771dbd324d9a",
+                "value": "The Campbell\u2019s Foundation",
+                "image_id": "511c434f806f45c59c4afd7e37984090",
+                "permalink": "the-campbell-s-foundation",
+                "entity_def_id": "organization"
+              },
+              {
+                "role": "investor",
+                "uuid": "ad992a65-ca1a-8b3d-1bca-990dc445f759",
+                "value": "TreeHouse Foods",
+                "image_id": "v1476592097/jfwpad6abah8hfmfajkx.png",
+                "permalink": "treehouse-foods",
+                "entity_def_id": "organization"
+              },
+              {
+                "role": "investor",
+                "uuid": "44ff7aea-4bea-4d82-b3d4-cf7df50f40fa",
+                "value": "UNFI Foundation",
+                "image_id": "tb2bvg3cauva8zmoovs2",
+                "permalink": "unfi-foundation",
+                "entity_def_id": "organization"
+              },
+              {
+                "role": "investor",
+                "uuid": "3fc33a90-e92e-8f34-3387-7b8171108839",
+                "value": "United Natural Foods",
+                "image_id": "v1461411419/sqxz0llrvluvdo9fd47e.png",
+                "permalink": "united-natural-foods",
+                "entity_def_id": "organization"
+              },
+              {
+                "role": "investor",
+                "uuid": "68d94320-c888-4195-a404-41dc5e3cbd93",
+                "value": "West Bourne",
+                "image_id": "jsguascux6md8annpyfr",
+                "permalink": "west-bourne",
+                "entity_def_id": "organization"
+              },
+              {
+                "role": "investor",
+                "uuid": "e9d823dc-1001-4e57-886b-217462d71611",
+                "value": "Yerba Madre",
+                "image_id": "3e775cf9bf724fdc8bd50f9e73b45a99",
+                "permalink": "yerba-madre",
+                "entity_def_id": "organization"
+              },
+              {
+                "role": "investor",
+                "uuid": "c6f57b85-33dd-4d47-ba57-ba7b0725a643",
+                "value": "Yogi Stress Relief Tea",
+                "image_id": "edcfacda801d4550b296db6334855956",
+                "permalink": "yogi-stress-relief-tea",
+                "entity_def_id": "organization"
+              }
+            ],
+            "activity_properties": {
+              "money_raised": {
+                "value": 500000,
+                "currency": "USD",
+                "value_usd": 500000
+              },
+              "investment_type": "undisclosed"
+            },
+            "activity_date": "2025-11-12"
+          }
+        },
+        {
+          "uuid": "54caa28d-36f8-4a2a-9c87-818518b28b6f",
+          "properties": {
+            "entity_def_id": "press_reference",
+            "activity_entities": [
+              {
+                "uuid": "afae7f98-1053-4b29-bbf1-8f7d3abfb20e",
+                "value": "Olipop",
+                "image_id": "yx6qdieek1mffmbjrph0",
+                "permalink": "olipop",
+                "entity_def_id": "organization"
+              }
+            ],
+            "activity_properties": {
+              "url": {
+                "value": "https://www.prnewswire.com/news-releases/mad-agriculture-and-whole-foods-markets-wilding-initiative-surpasses-1-million-goal-to-rebuild-biodiversity-across-us-farmland-302613519.html"
+              },
+              "title": "Mad Agriculture and Whole Foods Market's Wilding Initiative Surpasses $1 Million Goal to Rebuild Biodiversity Across U.S. Farmland",
+              "author": "Mad Agriculture",
+              "publisher": "PR Newswire"
+            },
+            "activity_date": "2025-11-12"
+          }
+        },
+        {
+          "uuid": "7cdbded8-df3e-49ab-9d24-97ccd5a41367",
+          "properties": {
+            "entity_def_id": "press_reference",
+            "activity_entities": [
+              {
+                "uuid": "afae7f98-1053-4b29-bbf1-8f7d3abfb20e",
+                "value": "Olipop",
+                "image_id": "yx6qdieek1mffmbjrph0",
+                "permalink": "olipop",
+                "entity_def_id": "organization"
+              }
+            ],
+            "activity_properties": {
+              "url": {
+                "value": "https://www.globenewswire.com/news-release/2025/11/10/3184844/28124/en/United-States-Probiotics-Market-Research-Report-2025-2033-Increased-Consumer-Awareness-of-Gut-Health-and-Innovation-in-Food-and-Beverage-Applications-Bolster-Growth.html"
+              },
+              "title": "United States Probiotics Market Research Report 2025-2033: Increased Consumer Awareness of Gut Health, and Innovation in Food and Beverage Applications Bolster Growth",
+              "publisher": "Research and Markets"
+            },
+            "activity_date": "2025-11-10"
+          }
+        },
+        {
+          "uuid": "ff4eb4c8-e3c0-44db-9e71-6daa81fcc42a",
+          "properties": {
+            "entity_def_id": "press_reference",
+            "activity_entities": [
+              {
+                "uuid": "afae7f98-1053-4b29-bbf1-8f7d3abfb20e",
+                "value": "Olipop",
+                "image_id": "yx6qdieek1mffmbjrph0",
+                "permalink": "olipop",
+                "entity_def_id": "organization"
+              }
+            ],
+            "activity_properties": {
+              "url": {
+                "value": "https://www.einpresswire.com/article/865902155/food-flavor-market-supported-by-a-cagr-of-4-9-from-2024-to-2033"
+              },
+              "title": "Food Flavor Market Supported by a CAGR of 4.9% from 2024 to 2033",
+              "author": "David Correa",
+              "publisher": "EIN Presswire"
+            },
+            "activity_date": "2025-11-10"
+          }
+        },
+        {
+          "uuid": "88f025fc-c2d3-4810-82cc-e8136dcc17f6",
+          "properties": {
+            "entity_def_id": "press_reference",
+            "activity_entities": [
+              {
+                "uuid": "afae7f98-1053-4b29-bbf1-8f7d3abfb20e",
+                "value": "Olipop",
+                "image_id": "yx6qdieek1mffmbjrph0",
+                "permalink": "olipop",
+                "entity_def_id": "organization"
+              }
+            ],
+            "activity_properties": {
+              "url": {
+                "value": "https://www.digitaljournal.com/business/ai-firms-dominate-the-most-valuable-startups-hitting-unicorn-status/article"
+              },
+              "title": "AI firms dominate the most valuable startups hitting unicorn status",
+              "author": "ByDr. Tim Sandle",
+              "publisher": "Digital Journal"
+            },
+            "activity_date": "2025-10-26"
+          }
+        },
+        {
+          "uuid": "f78f0ce8-7e40-49c0-a580-6e45be328f74",
+          "properties": {
+            "entity_def_id": "press_reference",
+            "activity_entities": [
+              {
+                "uuid": "afae7f98-1053-4b29-bbf1-8f7d3abfb20e",
+                "value": "Olipop",
+                "image_id": "yx6qdieek1mffmbjrph0",
+                "permalink": "olipop",
+                "entity_def_id": "organization"
+              }
+            ],
+            "activity_properties": {
+              "url": {
+                "value": "https://www.prnewswire.com/news-releases/ramp-launches-agents-for-ap-to-automate-accounts-payable-302576975.html"
+              },
+              "title": "Ramp Launches Agents for AP to Automate Accounts Payable",
+              "author": "Ramp",
+              "publisher": "PR Newswire"
+            },
+            "activity_date": "2025-10-07"
+          }
+        }
+      ]
+    },
+    "company_financials_highlights": {
+      "preview_properties": {
+        "funding_total": {
+          "is_present": true
+        }
+      },
+      "num_investments": 1,
+      "num_investors": 46,
+      "num_lead_investors": 5,
+      "num_funding_rounds": 7
+    },
+    "overview_company_fields": {
+      "company_type": "for_profit"
+    },
+    "acquisitions_headline": {},
+    "builtwith_summary": {
+      "builtwith_num_technologies_used": 74
+    },
+    "about_short_description": {
+      "short_description": "Olipop is a scientifically formulated beverage crafted with plant fiber and prebiotics to promote optimal digestive health."
+    },
+    "product": [
+      {
+        "name": "OLIPOP Prebiotic Soda",
+        "description": "A plant fiber and prebiotic-based soda designed to support digestive health with reduced sugar content compared to traditional sodas."
+      },
+      {
+        "name": "OLIPOP Variety Packs",
+        "description": "Prebiotic soda assortments combining multiple OLIPOP flavors in one package for consumer convenience."
+      },
+      {
+        "name": "OLIPOP Subscription Service (Endless OLIPOP)",
+        "description": "A subscription program providing regular delivery of OLIPOP sodas with options to save and manage orders."
+      },
+      {
+        "name": "OLIPOP Gift Cards",
+        "description": "Prepaid gift cards available in set denominations for purchasing OLIPOP products."
+      }
+    ],
+    "apptopia_app_headline": {}
+  }
+}

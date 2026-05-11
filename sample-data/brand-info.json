@@ -1,0 +1,192 @@
+{
+  "domain": {
+    "theme": {
+      "name": "olipop",
+      "style": "Unknown",
+      "vendor": "Unknown",
+      "version": "1.0"
+    },
+    "trustpilot": {
+      "review_count": 5,
+      "avg_rating": 2.6
+    },
+    "plan": "Shopify Plus",
+    "cluster_best_ranked": "drinkolipop.com",
+    "city": "Oakland",
+    "last_updated_at": "2026-03-19T00:00:00",
+    "subregion": "Northern America",
+    "contact_page": "https://drinkolipop.com/pages/contact-us",
+    "country_code": "US",
+    "currency_code": "USD",
+    "title": "OLIPOP | Healthy Prebiotic Soda",
+    "store_locator_page": "https://drinkolipop.com/pages/store-locator",
+    "administrative_area_level_1": "California",
+    "state": "Active",
+    "icon": "https://drinkolipop.com/cdn/shop/files/favicon_32x32.png?v=1613174610",
+    "brand_advocate_page": "https://drinkolipop.com/pages/affiliate-program",
+    "faq_page": "https://drinkolipop.com/pages/faq",
+    "career_page": "https://drinkolipop.com/pages/careers",
+    "region": "Americas",
+    "language_code": "en",
+    "tracking_page": "https://drinkolipop.com/pages/track-your-order",
+    "platform_domain": "olipop-store.myshopify.com",
+    "last_plan_change_at": "2021-09-23T00:00:00",
+    "platform": "shopify",
+    "location": "Oakland, CA, USA",
+    "og_image": "https://cdn.shopify.com/s/files/1/0034/6610/0806/files/Website_-_Social_-_Share_-_V1.png?v=1639521624",
+    "max_product_published_at": "2026-01-21T00:00:00",
+    "merchant_name": "OLIPOP",
+    "avg_price_formatted": "$17.22",
+    "created_at": "2019-03-08T00:00:00",
+    "name": "drinkolipop.com",
+    "tld1": "drinkolipop.com",
+    "description": "Discover a new kind of soda made with plant fiber and prebiotics. Non-GMO, gluten-free, paleo, and vegan, with high fiber and 2-5g of sugar. Enjoy a variety of delicious, refreshing and classic flavors.",
+    "contact_info": [
+      {
+        "description": "A new kind of soda\u2122  2-5g of sugar, 9g of fiber In the fridge  @walmart   @target   @wholefoods",
+        "followers": 14000,
+        "followers_90d": 771,
+        "posts": 2004,
+        "source": "/pages/ingredients",
+        "type": "twitter",
+        "value": "https://twitter.com/drinkolipop"
+      },
+      {
+        "source": "/pages/ingredients",
+        "type": "facebook",
+        "value": "https://www.facebook.com/drinkolipop"
+      },
+      {
+        "source": "/pages/ingredients",
+        "type": "instagram",
+        "value": "https://www.instagram.com/drinkolipop"
+      },
+      {
+        "description": "OLIPOP | \ud83e\udd64 a new kind of soda\n\ud83d\udcaa high fiber, just 2-5g of sugar\n\ud83d\udccd find us in the fridge & shop new pantry packs",
+        "followers": 1700,
+        "posts": 47,
+        "source": "/pages/ingredients",
+        "type": "pinterest",
+        "value": "https://www.pinterest.com/drinkolipop"
+      },
+      {
+        "source": "/pages/ingredients",
+        "type": "linkedin",
+        "value": "https://www.linkedin.com/company/olipop-pbc"
+      },
+      {
+        "description": "\ud83e\udd64A new kind of soda\n\ud83d\udcaahigh fiber, 2-5g of sugar\n\ud83d\udccdin the fridge & pantry packs",
+        "followers": 553100,
+        "followers_90d": 9237,
+        "likes": 3700000,
+        "source": "/pages/ingredients",
+        "type": "tiktok",
+        "value": "https://www.tiktok.com/@drinkolipop"
+      },
+      {
+        "source": "/pages/subscription",
+        "type": "phone",
+        "value": "844-936-2357"
+      },
+      {
+        "source": "/products/gift-card",
+        "type": "email",
+        "value": "hello@drinkolipop.com"
+      },
+      {
+        "source": "/pages/affiliate-program",
+        "type": "email",
+        "value": "partnerships@drinkolipop.com"
+      },
+      {
+        "source": "/pages/careers",
+        "type": "email",
+        "value": "recruiting@drinkolipop.com"
+      },
+      {
+        "source": "/pages/terms-of-service",
+        "type": "phone",
+        "value": "+18442929236"
+      },
+      {
+        "source": "/pages/faq",
+        "type": "email",
+        "value": "wholesale@drinkolipop.com"
+      },
+      {
+        "source": "/pages/satisfactionguarantee",
+        "type": "phone",
+        "value": "+1 888-557-1930"
+      }
+    ],
+    "aliases": [
+      "www.drinkoilpop.xyz",
+      "drinkoilpop.xyz",
+      "olipopfoodservice.com"
+    ],
+    "categories": [
+      "/Food & Drink"
+    ],
+    "cluster_domains": [
+      "drinkolipop.com"
+    ],
+    "features": [
+      "Shopify Online Store 2.0",
+      "Product Page Video Tag",
+      "New Shopify Checkout (2022)",
+      "Accepts Gift Cards",
+      "Contact Page",
+      "Signature Required",
+      "Tracking or Returns",
+      "Tracking Page",
+      "FAQ Page",
+      "Store Locator Page",
+      "Brand Advocate Page",
+      "Has Blog",
+      "Career Page"
+    ],
+    "shipping_carriers": [
+      "USPS",
+      "UPS",
+      "Fedex"
+    ],
+    "sales_channels": [
+      "Amazon"
+    ],
+    "sales_channel_urls": {
+      "Amazon": "https://www.amazon.com/stores/page/38E7F5D5-9103-4BFD-B5BA-B4893E43AE7E"
+    },
+    "ships_to_countries": [
+      "United States"
+    ],
+    "rank_percentile": 0.004,
+    "collection_count": 21,
+    "rank": 543,
+    "latitude": 37.8043514,
+    "platform_rank_percentile": 0.0041,
+    "longitude": -122.2711639,
+    "estimated_page_views": 5934198,
+    "estimated_sales": 638000084,
+    "estimated_sales_yearly": 7656001008,
+    "estimated_visits": 1603837,
+    "product_images": 104,
+    "product_images_created_365": 40,
+    "employee_count": 351,
+    "cc_rank": 189707,
+    "cc_centrality": 1382863,
+    "product_count": 55,
+    "max_price": 10000,
+    "max_price_usd": 10000,
+    "max_weight": 454,
+    "monthly_app_spend": 63900,
+    "min_price": 22,
+    "min_price_usd": 22,
+    "min_weight": 454,
+    "variant_count": 161,
+    "vendor_count": 1,
+    "avg_price": 1722,
+    "avg_price_usd": 1722,
+    "avg_weight": 454,
+    "platform_rank": 149
+  }
+}
