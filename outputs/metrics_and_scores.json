@@ -1,0 +1,59 @@
+{
+  "metrics": {
+    "brand_maturity": {
+      "years_on_market": 7.175906913073238,
+      "estimated_visits": 1603837.0,
+      "visits_mean_3m": 528865.3333333334,
+      "visits_cv_3m": 0.3877576243392315
+    },
+    "product_quality": {
+      "avg_stars": 4.18,
+      "low_star_ratio": 0.1,
+      "quality_negative_ratio": 0.12,
+      "review_count": 50
+    },
+    "market_demand_fit": {
+      "visits_mean_3m": 528865.3333333334,
+      "high_star_ratio": 0.8,
+      "repeat_purchase_ratio": 0.44
+    },
+    "innovation": {
+      "valid_product_count": 28,
+      "new_products_last_365d": 28,
+      "recent_activity_365d": 10,
+      "product_line_freshness_days": 194.0
+    },
+    "supply_chain_reliability": {
+      "available_variant_ratio": 0.7674418604651163,
+      "supply_issue_ratio": 0.0,
+      "shipping_carrier_count": 3
+    },
+    "value_for_money": {
+      "avg_variant_price": 26.4913953488372,
+      "value_positive_ratio": 0.18,
+      "value_negative_ratio": 0.06,
+      "avg_stars": 4.18
+    }
+  },
+  "score_result": {
+    "dimension_scores": {
+      "品牌成熟度": 83.67,
+      "产品质量": 77.25,
+      "市场需求匹配度": 89.23,
+      "创新力": 73.65,
+      "供应链可靠性": 89.53,
+      "性价比": 57.94
+    },
+    "dimension_confidence": {
+      "品牌成熟度": "high",
+      "产品质量": "medium",
+      "市场需求匹配度": "medium",
+      "创新力": "medium",
+      "供应链可靠性": "low",
+      "性价比": "medium"
+    },
+    "total_score": 78.9
+  },
+  "diagnosis": "该品牌综合得分为 78.9 分，整体处于中高水平。优势维度主要体现在 供应链可靠性(89.53)、市场需求匹配度(89.23)，说明品牌在核心经营与消费端口碑方面具备一定竞争力。相对薄弱的维度为 创新力(73.65)、性价比(57.94)，建议后续优先补强相关数据监测并进行针对性优化。当前结论基于样例数据计算，仍需结合更长期销量与供应链履约数据持续校准。",
+  "report_path": "D:\\研一下\\workflow\\outputs\\brand_report.md"
+}
